@@ -1,6 +1,6 @@
 # Hi, I'm Fuad Kamal
 
-**Frontend Developer from Bandung, Indonesia**
+**Full Stack Developer from Bandung, Indonesia**
 
 A passionate developer focused on creating meaningful and visually striking applications. Dedicated to building high-quality mobile and web experiences through clean code and modern design.
 
@@ -15,7 +15,12 @@ A passionate developer focused on creating meaningful and visually striking appl
 
 ## Tech Stack & Tools
 
-`JAVASCRIPT` | `LARAVEL` | `ANDROID` | `AWS` | `NODE.JS`
+* **Programming Languages:** `JavaScript`, `TypeScript`, `PHP`, `Java`, `Kotlin`, `Python`
+* **Frontend:** `React.js`, `Vue.js`, `HTML5`, `CSS3`, `Tailwind CSS`
+* **Backend:** `Node.js`, `Express.js`, `Laravel`
+* **Mobile & Desktop:** `Android`, `React Native`, `Electron`
+* **Database & Cloud:** `MySQL`, `PostgreSQL`, `MongoDB`, `AWS`
+* **Tools:** `Git`, `Docker`, `Postman`
 
 ---
 
