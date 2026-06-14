@@ -27,8 +27,7 @@ A passionate developer focused on creating meaningful and visually striking appl
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fuadkamalkamal&show_icons=false&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fuad's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadkamalkamal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fuadkamalkamal&show_icons=false&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Fuad's GitHub stats" />
 </div>
 
 ---
